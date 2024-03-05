@@ -1,0 +1,1364 @@
+[
+    {
+        "name": "Devil Fruit",
+        "description": "Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Adhesive Bandage",
+        "description": "Your average adhesive bandage. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Medicine",
+        "description": "Restores 50 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Recov-R: 50mg",
+        "description": "Fast-acting formula. Restores 50 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Recov-R: 100mg",
+        "description": "Fast-acting formula. Restores 100 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Takemedic (item)|Takemedic",
+        "description": "A new drug developed by TMC. Restores 200 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Moist Katsu Bun",
+        "description": "Rainy day special with terrific texture. Restores 200 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Moon Dango",
+        "description": "Autumn-only Japanese sweet. Restores 200 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Life Stone",
+        "description": "Restores 30% HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "Bead (item)|Bead",
+        "description": "Fully restores HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Takemedic-All",
+        "description": "A new drug developed by TMC. Restores 50 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Takemedic-All V",
+        "description": "A new drug developed by TMC. Restores 100 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Takemedic-All Z",
+        "description": "A new drug developed by TMC. Restores 200 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Bead Chain",
+        "description": "Fully restores HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Sacramental Wine",
+        "description": "Used during ceremonies. Fully restores HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Healing IV",
+        "description": "Can only be used in safe places. Restores 50% HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 50
+            }
+        ]
+    },
+    {
+        "name": "Rejuvenating IV",
+        "description": "Can only be used in safe places. Restores 100% HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Soul Drop",
+        "description": "Restores 10 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Beni-Azuma",
+        "description": "A sticky sweet potato low in fiber. Restores 10 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Snuff Soul",
+        "description": "Restores 50 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Legendary Yaki-Imo",
+        "description": "A winter-only roasted sweet potato. Restores 50 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Chewing Soul",
+        "description": "Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Ann Cream Puffs",
+        "description": "Ann's takoyaki-style cream puffs. Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Makoto Donuts",
+        "description": "Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sadayo Taiyaki",
+        "description": "Kawakami's specially made taiyaki. Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sakura Amezaiku",
+        "description": "Candy shaped like a cherry blossom. Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryuji Dog",
+        "description": "A gyoza hot dog Ryuji made. Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Soul Food",
+        "description": "Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Moonlight Carrot",
+        "description": "A hard to grow carrot. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Soma",
+        "description": "Fully restores HP and SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 100
+            },
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Fried Bread (Persona 5)|Fried Bread",
+        "description": "Bread with a nostalgic taste. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Karaage King",
+        "description": "So good it's practically royalty. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Starvicks",
+        "description": "The world's first spicy coffee. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Second Maid",
+        "description": "Refreshing Mandarin flavor. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Earl Green",
+        "description": "A blend of Eastern and Western tea. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Manta",
+        "description": "Makes you want to dance all night. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Nastea",
+        "description": "Unexpectedly great taste. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "1UP",
+        "description": "Coveted by old-school gamers. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Durian-au-Lait",
+        "description": "Made from the king of fruits. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Udagawa Water",
+        "description": "Triple-filtered Shibuya river water. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Joylent",
+        "description": "Unsettlingly nutritious. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Mad Bull",
+        "description": "Practically liquid caffeine. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Muscle Tea",
+        "description": "Popular tea often sold online. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sandwich",
+        "description": "Yon-Germain's staple sandwich. Restores 10 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Jam Bread",
+        "description": "Bread with strawberry jam spread. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Foreign Nikuman",
+        "description": "Despite the name, it's a kebab. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Jagariko",
+        "description": "A popular Japanese snack. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Saturn Fries",
+        "description": "A potato with onion rings like Saturn. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Dr. Salt NEO",
+        "description": "Now with more pepper. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Oh! Shiruko",
+        "description": "So good it makes you say, \"Oh!\" Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Chunky Potage",
+        "description": "You can never drink all the kernels. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Ultimate Amazake",
+        "description": "Makes you think you're drunk. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Venus Salad",
+        "description": "A fruit salad that's fit for a goddess. Restores 30 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 30,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Fruit Danish",
+        "description": "A fruity, seasonal pastry. Restores 30 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 30,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Udagawa Water",
+        "description": "Restores 30 HP. <!-- Description missing -->",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 30,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Autumn Bread",
+        "description": "Bun with chestnuts and carrots in it. Restores 200 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Soothing Soba",
+        "description": "Summer-only cold Chinese noodles. Restores 200 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Protein (item)|Protein",
+        "description": "Increases training efficiency. Restores 30% HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "Moist Protein",
+        "description": "Rainy day-only. Helps training. Restores 30% HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "Big Bang Burger (item)|Big Bang Burger",
+        "description": "The taste is Big Bang level! Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Squid Splurge",
+        "description": "A pack full of select squid snacks. Restores 20 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Party in a Can",
+        "description": "Canned food to be eaten as a group. Restores 40 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 40,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Mixed Nuts",
+        "description": "A can full of a variety of nuts. Restores 40 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 40,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Earth Burger",
+        "description": "Spring-only. Filled with Earth veggies. Restores 40 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 40,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Agodashi Oden",
+        "description": "Winter-only oden with rich flavor. Restores 50 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Drizzled Natto",
+        "description": "Rainy day special. Large candied natto. Restores 80 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 80,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Spring Fruit Pack",
+        "description": "Spring-only. Filled with with fruits. Restores 80 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 80,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Moon Burger",
+        "description": "Autumn-only. The egg looks like the moon. Restores 120 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 120,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Supernova Burger",
+        "description": "A new burger by the reborn Okumura Foods. Restores 200 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Arginade",
+        "description": "Contains arginine. Restores 5 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 5,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Water of Rebirth",
+        "description": "Blended with placenta. Restores 5 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 5,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Broken Rock Salt",
+        "description": "A Holy Stone shattered to pieces. Restores 5 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 5,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Leblanc Coffee",
+        "description": "Specialty drip coffee. Restores 30 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 30,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Bitter Coffee",
+        "description": "A very bitter coffee. Restores 30 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 30,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Master Coffee",
+        "description": "The finest quality coffee. Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Decent Curry",
+        "description": "Curry that almost lives up to Leblanc's. Restores 20 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Fire Curry",
+        "description": "Almost like Leblanc's, but incredibly spicy. Restores 20 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 20,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Leblanc Curry",
+        "description": "Recreates Boss's flavor perfectly. Restores 50 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Blaze Curry",
+        "description": "Just like Boss's, but incredibly spicy. Restores 50 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Inferno Curry",
+        "description": "Surpasses Boss's, but is extremely spicy. Restores 50 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sun Tomato",
+        "description": "A hard to grow tomato. Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Master Curry",
+        "description": "Curry that surpasses Boss's flavor. Restores 100 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Ryuji's Chocolate",
+        "description": "Cheap chocolate from Ryuji. Restores 10 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sojiro's Chocolate",
+        "description": "Cheap chocolate from Sojiro. Restores 10 SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 10,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Ann's Chocolate",
+        "description": "Premium chocolate from Ann. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Makoto's Chocolate",
+        "description": "Premium chocolate from Makoto. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Futaba's Chocolate",
+        "description": "Handmade chocolate from Futaba. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Haru's Chocolate",
+        "description": "Handmade chocolate from Haru. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Sadayo's Chocolate",
+        "description": "Handmade chocolate from Kawakami. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Takemi's Chocolate",
+        "description": "Premium chocolate from Takemi. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Chihaya's Chocolate",
+        "description": "Premium chocolate from Chihaya. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Ohya's Chocolate",
+        "description": "Premium chocolate from Ohya. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Hifumi's Chocolate",
+        "description": "Handmade chocolate from Hifumi. Fully restores SP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 100
+            }
+        ]
+    },
+    {
+        "name": "Yakisoba Pan",
+        "description": "Fast-selling bread. Restores 50 HP and cures Hunger for one ally.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sikkenine",
+        "description": "Restores 50 HP & lowers Accuracy/Evasion.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Torimeshi Ration",
+        "description": "Restores 50 HP and cures Hunger for one ally.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Veg. Stew Ration",
+        "description": "Cures Hunger for one ally and restores 50 HP.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Phantom Wafers",
+        "description": "Phantom Thieves snack. Restores 50 HP and cures ailments for one ally.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 50,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Mayo Locust",
+        "description": "Restores 100 HP. Lowers Attack/Accuracy/Evasion.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Miso Starfish",
+        "description": "Restores 100 HP. Lowers Attack and Defense.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Strawberry Curry",
+        "description": "Restores 100 HP. Lowers Defense/Accuracy/Evasion.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sikkenine A",
+        "description": "Restores 100 HP & lowers Attack.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 100,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Sikkenine EX",
+        "description": "Restores 200 HP & lowers Defense.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 200,
+                "percent": 0
+            }
+        ]
+    },
+    {
+        "name": "Muscle Drink",
+        "description": "Restores 30% HP. Raises Attack and lowers Defense.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "Odd Morsel",
+        "description": "Restores 30% HP. Raises Attack and lowers Evasion.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "MRE Ration",
+        "description": "Restores 30% HP, lowers Attack & raises Evasion.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "Fruit Ration",
+        "description": "Restores 30% HP, lowers Defense & raises Attack.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "Rancid Gravy",
+        "description": "Restores 30% HP. Raises Evasion and lowers Attack.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "Oatmeal Ration",
+        "description": "Restores 30% HP, lowers Evasion & raises Attack.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "HP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    },
+    {
+        "name": "D Ration",
+        "description": "Not a chocolate bar. Restores 10% SP & lowers Attack.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 10
+            }
+        ]
+    },
+    {
+        "name": "Beef Patty Ration",
+        "description": "Canned a while ago. Restores 10% SP & lowers Defense.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 10
+            }
+        ]
+    },
+    {
+        "name": "Kommissbrot",
+        "description": "Hardtack. Restores 10% SP & lowers Accuracy/Evasion.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 10
+            }
+        ]
+    },
+    {
+        "name": "Mystery Stew",
+        "description": "No ingredients listed. Restores 30% SP. Lowers all stats.",
+        "effects": [
+            {
+                "type": "Recovery",
+                "stat": "SP",
+                "points": 0,
+                "percent": 30
+            }
+        ]
+    }
+]

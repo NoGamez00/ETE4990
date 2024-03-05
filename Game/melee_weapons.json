@@ -1,0 +1,967 @@
+[
+  {
+    "name": "Rebel Knife",
+    "attack": 38,
+    "accuracy": 96
+  },
+  {
+    "name": "Black Kogatana",
+    "attack": 50,
+    "accuracy": 95
+  },
+  {
+    "name": "Blizz Dagger",
+    "attack": 52,
+    "accuracy": 96
+  },
+  {
+    "name": "Silver Dagger",
+    "attack": 58,
+    "accuracy": 98
+  },
+  {
+    "name": "Kukri",
+    "attack": 62,
+    "accuracy": 98
+  },
+  {
+    "name": "Igniter",
+    "attack": 72,
+    "accuracy": 96
+  },
+  {
+    "name": "Athame",
+    "attack": 90,
+    "accuracy": 98
+  },
+  {
+    "name": "Stun Dagger",
+    "attack": 102,
+    "accuracy": 96
+  },
+  {
+    "name": "Skinning Knife",
+    "attack": 122,
+    "accuracy": 98
+  },
+  {
+    "name": "Arsene's Cane",
+    "attack": 130,
+    "accuracy": 92
+  },
+  {
+    "name": "Killing Scalpel",
+    "attack": 130,
+    "accuracy": 96
+  },
+  {
+    "name": "Kopis",
+    "attack": 140,
+    "accuracy": 98
+  },
+  {
+    "name": "Helper Knife",
+    "attack": 148,
+    "accuracy": 98
+  },
+  {
+    "name": "The Great Thief Stick",
+    "attack": 150,
+    "accuracy": 92
+  },
+  {
+    "name": "Mega Knife",
+    "attack": 154,
+    "accuracy": 96
+  },
+  {
+    "name": "Pro Skinning Knife",
+    "attack": 170,
+    "accuracy": 98
+  },
+  {
+    "name": "Parrying Dagger",
+    "attack": 184,
+    "accuracy": 96
+  },
+  {
+    "name": "Machete",
+    "attack": 204,
+    "accuracy": 98
+  },
+  {
+    "name": "Royal Dagger",
+    "attack": 210,
+    "accuracy": 98
+  },
+  {
+    "name": "Frenzy Dagger",
+    "attack": 218,
+    "accuracy": 96
+  },
+  {
+    "name": "Baselard",
+    "attack": 238,
+    "accuracy": 98
+  },
+  {
+    "name": "Pro Parrying Dagger",
+    "attack": 252,
+    "accuracy": 96
+  },
+  {
+    "name": "Misericorde",
+    "attack": 280,
+    "accuracy": 98
+  },
+  {
+    "name": "Plasma Knife",
+    "attack": 296,
+    "accuracy": 96
+  },
+  {
+    "name": "Punish Dagger",
+    "attack": 316,
+    "accuracy": 98
+  },
+  {
+    "name": "Paradise Lost",
+    "attack": 325,
+    "accuracy": 92
+  },
+  {
+    "name": "Paradise Lost R",
+    "attack": 340,
+    "accuracy": 98
+  },
+  {
+    "name": "Normal Rod",
+    "attack": 44,
+    "accuracy": 92
+  },
+  {
+    "name": "Iron Pipe",
+    "attack": 56,
+    "accuracy": 91
+  },
+  {
+    "name": "Hell Slugger",
+    "attack": 66,
+    "accuracy": 93
+  },
+  {
+    "name": "Heavy Steel Pipe",
+    "attack": 76,
+    "accuracy": 91
+  },
+  {
+    "name": "Judge Mace",
+    "attack": 72,
+    "accuracy": 93
+  },
+  {
+    "name": "Battle Hammer",
+    "attack": 94,
+    "accuracy": 93
+  },
+  {
+    "name": "Wicked Iron Pipe",
+    "attack": 106,
+    "accuracy": 91
+  },
+  {
+    "name": "Heavy Mace",
+    "attack": 126,
+    "accuracy": 93
+  },
+  {
+    "name": "Gang Star",
+    "attack": 130,
+    "accuracy": 93
+  },
+  {
+    "name": "Spike Rod",
+    "attack": 134,
+    "accuracy": 91
+  },
+  {
+    "name": "Bush Hammer",
+    "attack": 144,
+    "accuracy": 93
+  },
+  {
+    "name": "Sleep Stick",
+    "attack": 144,
+    "accuracy": 88
+  },
+  {
+    "name": "Demon Pipe",
+    "attack": 158,
+    "accuracy": 91
+  },
+  {
+    "name": "Boss Bush Hammer",
+    "attack": 174,
+    "accuracy": 93
+  },
+  {
+    "name": "Big Sleep Stick",
+    "attack": 188,
+    "accuracy": 91
+  },
+  {
+    "name": "Armageddon Rod",
+    "attack": 182,
+    "accuracy": 93
+  },
+  {
+    "name": "Gaea Presser",
+    "attack": 208,
+    "accuracy": 93
+  },
+  {
+    "name": "Stun Baton",
+    "attack": 222,
+    "accuracy": 91
+  },
+  {
+    "name": "Dragon God Pole",
+    "attack": 242,
+    "accuracy": 93
+  },
+  {
+    "name": "Fervent Bat",
+    "attack": 270,
+    "accuracy": 91
+  },
+  {
+    "name": "Mjolnir",
+    "attack": 280,
+    "accuracy": 88
+  },
+  {
+    "name": "Grand Presser",
+    "attack": 256,
+    "accuracy": 91
+  },
+  {
+    "name": "Ruyi Jingu Bang",
+    "attack": 270,
+    "accuracy": 88
+  },
+  {
+    "name": "Super Megido Rod",
+    "attack": 284,
+    "accuracy": 93
+  },
+  {
+    "name": "Fine Ruyi Jingu Bang",
+    "attack": 290,
+    "accuracy": 88
+  },
+  {
+    "name": "Arc Mace",
+    "attack": 300,
+    "accuracy": 91
+  },
+  {
+    "name": "Last Hammer",
+    "attack": 320,
+    "accuracy": 93
+  },
+  {
+    "name": "Imprisoned Mjolnir",
+    "attack": 324,
+    "accuracy": 88
+  },
+  {
+    "name": "Venture Saber",
+    "attack": 10,
+    "accuracy": 60
+  },
+  {
+    "name": "Bandit Sword",
+    "attack": 46,
+    "accuracy": 97
+  },
+  {
+    "name": "Falchion",
+    "attack": 56,
+    "accuracy": 99
+  },
+  {
+    "name": "Sonic Blade",
+    "attack": 66,
+    "accuracy": 97
+  },
+  {
+    "name": "Scimitar",
+    "attack": 84,
+    "accuracy": 99
+  },
+  {
+    "name": "Lunar Cutlass",
+    "attack": 90,
+    "accuracy": 99
+  },
+  {
+    "name": "Talwar",
+    "attack": 96,
+    "accuracy": 97
+  },
+  {
+    "name": "Sleeper Blade",
+    "attack": 116,
+    "accuracy": 99
+  },
+  {
+    "name": "Resting Sword",
+    "attack": 124,
+    "accuracy": 97
+  },
+  {
+    "name": "Shamshir",
+    "attack": 134,
+    "accuracy": 99
+  },
+  {
+    "name": "Blood Scimitar",
+    "attack": 140,
+    "accuracy": 98
+  },
+  {
+    "name": "Mut Cutlass",
+    "attack": 142,
+    "accuracy": 98
+  },
+  {
+    "name": "Cosmic Sword",
+    "attack": 148,
+    "accuracy": 97
+  },
+  {
+    "name": "Headhunter Ladle",
+    "attack": 150,
+    "accuracy": 90
+  },
+  {
+    "name": "Headhunter Ladle EX",
+    "attack": 150,
+    "accuracy": 90
+  },
+  {
+    "name": "Chief's Cutlass",
+    "attack": 164,
+    "accuracy": 99
+  },
+  {
+    "name": "Damascus Sword",
+    "attack": 178,
+    "accuracy": 97
+  },
+  {
+    "name": "Hot-Blooded Sword",
+    "attack": 190,
+    "accuracy": 90
+  },
+  {
+    "name": "Heavy Saber",
+    "attack": 198,
+    "accuracy": 99
+  },
+  {
+    "name": "Panic Sword",
+    "attack": 212,
+    "accuracy": 97
+  },
+  {
+    "name": "God Saber",
+    "attack": 232,
+    "accuracy": 99
+  },
+  {
+    "name": "Bright Sword",
+    "attack": 246,
+    "accuracy": 97
+  },
+  {
+    "name": "Answerer",
+    "attack": 274,
+    "accuracy": 99
+  },
+  {
+    "name": "Megistos Sword",
+    "attack": 290,
+    "accuracy": 97
+  },
+  {
+    "name": "Dark Cutlass",
+    "attack": 282,
+    "accuracy": 99
+  },
+  {
+    "name": "Vertical Edge",
+    "attack": 310,
+    "accuracy": 99
+  },
+  {
+    "name": "Claiomh Solais",
+    "attack": 315,
+    "accuracy": 90
+  },
+  {
+    "name": "Claiomh Solais R",
+    "attack": 330,
+    "accuracy": 90
+  },
+  {
+    "name": "Envy Chain",
+    "attack": 10,
+    "accuracy": 95
+  },
+  {
+    "name": "Leather Whip",
+    "attack": 36,
+    "accuracy": 94
+  },
+  {
+    "name": "Heat Whip",
+    "attack": 48,
+    "accuracy": 97
+  },
+  {
+    "name": "Fundo-Kusari",
+    "attack": 58,
+    "accuracy": 99
+  },
+  {
+    "name": "Guilty Whip",
+    "attack": 64,
+    "accuracy": 99
+  },
+  {
+    "name": "Skin Ripper",
+    "attack": 68,
+    "accuracy": 97
+  },
+  {
+    "name": "Goat Leather Whip",
+    "attack": 86,
+    "accuracy": 99
+  },
+  {
+    "name": "Burn Whip",
+    "attack": 98,
+    "accuracy": 97
+  },
+  {
+    "name": "Warrior Whip",
+    "attack": 118,
+    "accuracy": 99
+  },
+  {
+    "name": "Decorative Whip",
+    "attack": 122,
+    "accuracy": 99
+  },
+  {
+    "name": "Hero Whip",
+    "attack": 126,
+    "accuracy": 97
+  },
+  {
+    "name": "Whip Sword",
+    "attack": 136,
+    "accuracy": 99
+  },
+  {
+    "name": "Electromag Whip",
+    "attack": 150,
+    "accuracy": 97
+  },
+  {
+    "name": "Mirage Whip",
+    "attack": 166,
+    "accuracy": 99
+  },
+  {
+    "name": "Strike Tail",
+    "attack": 180,
+    "accuracy": 97
+  },
+  {
+    "name": "Great Whip Sword",
+    "attack": 200,
+    "accuracy": 99
+  },
+  {
+    "name": "Fear of Pain",
+    "attack": 214,
+    "accuracy": 97
+  },
+  {
+    "name": "Chain Whip",
+    "attack": 234,
+    "accuracy": 99
+  },
+  {
+    "name": "Masquerade Ribbon",
+    "attack": 240,
+    "accuracy": 88
+  },
+  {
+    "name": "Disciplinary Whip",
+    "attack": 242,
+    "accuracy": 99
+  },
+  {
+    "name": "Spike Whip",
+    "attack": 248,
+    "accuracy": 97
+  },
+  {
+    "name": "Masquerade Ribbon R",
+    "attack": 250,
+    "accuracy": 88
+  },
+  {
+    "name": "Snow Queen's Whip",
+    "attack": 260,
+    "accuracy": 90
+  },
+  {
+    "name": "Hard Branch",
+    "attack": 276,
+    "accuracy": 99
+  },
+  {
+    "name": "Snow Queen's Whip II",
+    "attack": 280,
+    "accuracy": 90
+  },
+  {
+    "name": "Naraka Whip",
+    "attack": 280,
+    "accuracy": 90
+  },
+  {
+    "name": "Barog Whip",
+    "attack": 292,
+    "accuracy": 97
+  },
+  {
+    "name": "Grapnel",
+    "attack": 312,
+    "accuracy": 99
+  },
+  {
+    "name": "Dainaraka Whip",
+    "attack": 320,
+    "accuracy": 90
+  },
+  {
+    "name": "Katana",
+    "attack": 78,
+    "accuracy": 94
+  },
+  {
+    "name": "Murasame",
+    "attack": 78,
+    "accuracy": 94
+  },
+  {
+    "name": "Gunto",
+    "attack": 96,
+    "accuracy": 96
+  },
+  {
+    "name": "Yuibitachi",
+    "attack": 102,
+    "accuracy": 96
+  },
+  {
+    "name": "Antique Gunto",
+    "attack": 108,
+    "accuracy": 94
+  },
+  {
+    "name": "Zandouto",
+    "attack": 128,
+    "accuracy": 96
+  },
+  {
+    "name": "Senryou Yakusha",
+    "attack": 130,
+    "accuracy": 90
+  },
+  {
+    "name": "Jagato",
+    "attack": 136,
+    "accuracy": 96
+  },
+  {
+    "name": "Senryou Yakusha R",
+    "attack": 140,
+    "accuracy": 90
+  },
+  {
+    "name": "Koedo Sword",
+    "attack": 140,
+    "accuracy": 94
+  },
+  {
+    "name": "Seishiki Sword",
+    "attack": 146,
+    "accuracy": 96
+  },
+  {
+    "name": "Gekkou",
+    "attack": 160,
+    "accuracy": 94
+  },
+  {
+    "name": "Shikomi Kiseru",
+    "attack": 176,
+    "accuracy": 96
+  },
+  {
+    "name": "Orochito",
+    "attack": 190,
+    "accuracy": 94
+  },
+  {
+    "name": "Iai Katana",
+    "attack": 210,
+    "accuracy": 96
+  },
+  {
+    "name": "Masamune",
+    "attack": 224,
+    "accuracy": 94
+  },
+  {
+    "name": "Wakizashi",
+    "attack": 244,
+    "accuracy": 96
+  },
+  {
+    "name": "Kaito Ranma",
+    "attack": 252,
+    "accuracy": 96
+  },
+  {
+    "name": "Master's Iai Katana",
+    "attack": 258,
+    "accuracy": 94
+  },
+  {
+    "name": "Red Demon Blade",
+    "attack": 286,
+    "accuracy": 96
+  },
+  {
+    "name": "Kaketsushinto",
+    "attack": 302,
+    "accuracy": 94
+  },
+  {
+    "name": "Ten Ichimonji",
+    "attack": 322,
+    "accuracy": 96
+  },
+  {
+    "name": "Usumidori",
+    "attack": 324,
+    "accuracy": 88
+  },
+  {
+    "name": "Usumidori R",
+    "attack": 340,
+    "accuracy": 88
+  },
+  {
+    "name": "Prophet's Hand",
+    "attack": 10,
+    "accuracy": 95
+  },
+  {
+    "name": "Brass Knuckles",
+    "attack": 102,
+    "accuracy": 94
+  },
+  {
+    "name": "Delta Knuckle",
+    "attack": 102,
+    "accuracy": 94
+  },
+  {
+    "name": "Heavy Grip",
+    "attack": 122,
+    "accuracy": 96
+  },
+  {
+    "name": "Knuckle Duster",
+    "attack": 126,
+    "accuracy": 96
+  },
+  {
+    "name": "Hell Knuckles",
+    "attack": 130,
+    "accuracy": 94
+  },
+  {
+    "name": "Clenched Fist",
+    "attack": 140,
+    "accuracy": 96
+  },
+  {
+    "name": "Metal Duster",
+    "attack": 154,
+    "accuracy": 94
+  },
+  {
+    "name": "Old Man's Fist",
+    "attack": 160,
+    "accuracy": 94
+  },
+  {
+    "name": "Iron Fist",
+    "attack": 170,
+    "accuracy": 96
+  },
+  {
+    "name": "Mach Punch",
+    "attack": 184,
+    "accuracy": 94
+  },
+  {
+    "name": "Demon Fist",
+    "attack": 204,
+    "accuracy": 96
+  },
+  {
+    "name": "Baccarat Knuckle",
+    "attack": 210,
+    "accuracy": 96
+  },
+  {
+    "name": "Flash Punch",
+    "attack": 218,
+    "accuracy": 94
+  },
+  {
+    "name": "Omega Knuckle",
+    "attack": 238,
+    "accuracy": 96
+  },
+  {
+    "name": "Bear Gloves",
+    "attack": 240,
+    "accuracy": 90
+  },
+  {
+    "name": "Bout Gloves",
+    "attack": 252,
+    "accuracy": 94
+  },
+  {
+    "name": "Big Bear Gloves",
+    "attack": 260,
+    "accuracy": 90
+  },
+  {
+    "name": "Sanction",
+    "attack": 280,
+    "accuracy": 96
+  },
+  {
+    "name": "Meteor Knuckle",
+    "attack": 296,
+    "accuracy": 94
+  },
+  {
+    "name": "Vajra",
+    "attack": 305,
+    "accuracy": 90
+  },
+  {
+    "name": "Sabazios",
+    "attack": 315,
+    "accuracy": 90
+  },
+  {
+    "name": "Champion Gloves",
+    "attack": 316,
+    "accuracy": 96
+  },
+  {
+    "name": "Unparalleled Vajra",
+    "attack": 325,
+    "accuracy": 90
+  },
+  {
+    "name": "Gordios",
+    "attack": 330,
+    "accuracy": 95
+  },
+  {
+    "name": "Axe",
+    "attack": 159,
+    "accuracy": 90
+  },
+  {
+    "name": "Bardiche",
+    "attack": 175,
+    "accuracy": 92
+  },
+  {
+    "name": "Big Bang Axe",
+    "attack": 183,
+    "accuracy": 92
+  },
+  {
+    "name": "Mega Axe",
+    "attack": 189,
+    "accuracy": 90
+  },
+  {
+    "name": "Death Contract",
+    "attack": 190,
+    "accuracy": 80
+  },
+  {
+    "name": "Death Promise",
+    "attack": 200,
+    "accuracy": 80
+  },
+  {
+    "name": "Crescent Axe",
+    "attack": 209,
+    "accuracy": 92
+  },
+  {
+    "name": "Ice Axe",
+    "attack": 223,
+    "accuracy": 90
+  },
+  {
+    "name": "Kintaro Axe",
+    "attack": 235,
+    "accuracy": 92
+  },
+  {
+    "name": "Gilgamesh Axe",
+    "attack": 243,
+    "accuracy": 92
+  },
+  {
+    "name": "Amazon Axe",
+    "attack": 257,
+    "accuracy": 90
+  },
+  {
+    "name": "Celtis",
+    "attack": 285,
+    "accuracy": 92
+  },
+  {
+    "name": "Death Axe",
+    "attack": 293,
+    "accuracy": 92
+  },
+  {
+    "name": "Taiji Axe",
+    "attack": 301,
+    "accuracy": 90
+  },
+  {
+    "name": "Crusader",
+    "attack": 321,
+    "accuracy": 92
+  },
+  {
+    "name": "Fleurs du Mal",
+    "attack": 325,
+    "accuracy": 86
+  },
+  {
+    "name": "Fleurs du Mal R",
+    "attack": 345,
+    "accuracy": 86
+  },
+  {
+    "name": "Lumina Saber",
+    "attack": 184,
+    "accuracy": 96
+  },
+  {
+    "name": "Quasar Saber",
+    "attack": 204,
+    "accuracy": 98
+  },
+  {
+    "name": "Victory Beam",
+    "attack": 210,
+    "accuracy": 98
+  },
+  {
+    "name": "Saw Saber",
+    "attack": 280,
+    "accuracy": 95
+  },
+  {
+    "name": "Dread Saber",
+    "attack": 296,
+    "accuracy": 96
+  },
+  {
+    "name": "Guillotine Saber",
+    "attack": 316,
+    "accuracy": 98
+  },
+  {
+    "name": "Infini-saber",
+    "attack": 348,
+    "accuracy": 98
+  },
+  {
+    "name": "Hinokagutsuchi",
+    "attack": 350,
+    "accuracy": 90
+  },
+  {
+    "name": "Hinokagutsuchi II",
+    "attack": 360,
+    "accuracy": 90
+  },
+  {
+    "name": "Rapier",
+    "attack": 280,
+    "accuracy": 95
+  },
+  {
+    "name": "White Snow Rapier",
+    "attack": 292,
+    "accuracy": 97
+  },
+  {
+    "name": "Zirah Bouk",
+    "attack": 312,
+    "accuracy": 99
+  },
+  {
+    "name": "Decisive Rapier",
+    "attack": 344,
+    "accuracy": 95
+  },
+  {
+    "name": "Sword of Sinai",
+    "attack": 345,
+    "accuracy": 95
+  },
+  {
+    "name": "Sword of Sinai II",
+    "attack": 365,
+    "accuracy": 95
+  }
+]

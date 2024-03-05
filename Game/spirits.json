@@ -1,0 +1,792 @@
+[
+  {
+    "name": "Agnes",
+    "resistances": {
+      "weak": ["Psy"],
+      "resist": ["Dark"],
+      "null": ["Nuke"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Al Azif",
+    "resistances": {
+      "weak": [],
+      "resist": [],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Anat",
+    "resistances": {
+      "weak": ["Psy"],
+      "resist": ["Dark"],
+      "null": ["Nuke"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Ara Mitama",
+    "resistances": {
+      "weak": ["Ice"],
+      "resist": ["Phys"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Ardha",
+    "resistances": {
+      "weak": [],
+      "resist": ["Phys"],
+      "null": ["Ice", "Elec"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Ariadne",
+    "resistances": {
+      "weak": ["Psy"],
+      "resist": ["Gun", "Light"],
+      "null": ["Nuke"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Ariadne Picaro",
+    "resistances": {
+      "weak": ["Psy"],
+      "resist": ["Gun", "Light"],
+      "null": ["Nuke"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Arsene",
+    "resistances": {
+      "weak": ["Ice", "Light"],
+      "resist": ["Dark"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Astarte",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Ice"],
+      "null": ["Psy"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Asterius",
+    "resistances": {
+      "weak": ["Ice"],
+      "resist": ["Fire", "Psy"],
+      "null": ["Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Asterius Picaro",
+    "resistances": {
+      "weak": ["Ice"],
+      "resist": ["Fire", "Psy"],
+      "null": ["Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Athena",
+    "resistances": {
+      "weak": ["Elec"],
+      "resist": ["Phys"],
+      "null": ["Gun"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Athena Picaro",
+    "resistances": {
+      "weak": ["Elec"],
+      "resist": ["Phys"],
+      "null": ["Gun"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Byakhee",
+    "resistances": {
+      "weak": ["Ice", "Nuke"],
+      "resist": [],
+      "null": ["Fire", "Wind", "Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Captain Kidd",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": ["Elec"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Carmen",
+    "resistances": {
+      "weak": ["Ice"],
+      "resist": ["Fire"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Cestine",
+    "resistances": {
+      "weak": ["Ice"],
+      "resist": ["Elec"],
+      "null": ["Fire"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Cendrillon",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": [],
+      "null": ["Light"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Choronzon",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": ["Phys"],
+      "null": [],
+      "drain": ["Fire"],
+      "repel": []
+    }
+  },
+  {
+    "name": "Crystal Skull",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Diego",
+    "resistances": {
+      "weak": ["Elec"],
+      "resist": ["Light"],
+      "null": ["Wind"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Ella",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Nuke"],
+      "null": ["Light"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Emperor's Amulet",
+    "resistances": {
+      "weak": ["Elec"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Goemon",
+    "resistances": {
+      "weak": ["Fire"],
+      "resist": ["Ice"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Gorokichi",
+    "resistances": {
+      "weak": ["Fire"],
+      "resist": ["Wind"],
+      "null": ["Ice"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Hastur",
+    "resistances": {
+      "weak": [],
+      "resist": ["Fire"],
+      "null": ["Psy", "Dark"],
+      "drain": ["Wind"],
+      "repel": []
+    }
+  },
+  {
+    "name": "Hecate",
+    "resistances": {
+      "weak": ["Ice"],
+      "resist": ["Elec"],
+      "null": ["Fire"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Hereward",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": ["Psy"],
+      "null": ["Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Hope Diamond",
+    "resistances": {
+      "weak": ["Ice"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Izanagi",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": ["Elec"],
+      "null": ["Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Izanagi-no-Okami",
+    "resistances": {
+      "weak": [],
+      "resist": ["Phys", "Gun", "Fire", "Ice", "Wind", "Elec", "Psy", "Nuke"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Izanagi-no-Okami Picaro",
+    "resistances": {
+      "weak": [],
+      "resist": ["Phys", "Gun", "Fire", "Ice", "Wind", "Elec", "Psy", "Nuke"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Izanagi Picaro",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": [],
+      "null": ["Elec", "Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Johanna",
+    "resistances": {
+      "weak": ["Psy"],
+      "resist": ["Nuke"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Kaguya",
+    "resistances": {
+      "weak": ["Fire"],
+      "resist": ["Wind"],
+      "null": ["Light", "Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Kaguya Picaro",
+    "resistances": {
+      "weak": ["Fire"],
+      "resist": [],
+      "null": ["Light", "Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Kamu Susano-o",
+    "resistances": {
+      "weak": ["Fire"],
+      "resist": ["Wind"],
+      "null": ["Ice"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Koh-i-Noor",
+    "resistances": {
+      "weak": ["Gun"],
+      "resist": ["Phys"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Kushi Mitama",
+    "resistances": {
+      "weak": ["Fire"],
+      "resist": ["Wind"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Loki - P5",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": [],
+      "null": ["Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Lucifer",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": ["Phys", "Fire", "Ice", "Elec", "Wind"],
+      "null": ["Gun"],
+      "drain": ["Dark"],
+      "repel": []
+    }
+  },
+  {
+    "name": "Lucy",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Ice"],
+      "null": ["Psy"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Magatsu-Izanagi",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Gun"],
+      "null": ["Light", "Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Magatsu-Izanagi Picaro",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Gun"],
+      "null": ["Light", "Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Mercurius",
+    "resistances": {
+      "weak": ["Elec"],
+      "resist": ["Light"],
+      "null": ["Wind"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Messiah",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Fire", "Ice", "Elec", "Wind", "Psy", "Nuke"],
+      "null": [],
+      "drain": [],
+      "repel": ["Light"]
+    }
+  },
+  {
+    "name": "Messiah Picaro",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Fire", "Ice", "Elec", "Wind", "Psy", "Nuke"],
+      "null": [],
+      "drain": [],
+      "repel": ["Light"]
+    }
+  },
+  {
+    "name": "Milady",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Psy"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Necronomicon",
+    "resistances": {
+      "weak": [],
+      "resist": [],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Nigi Mitama",
+    "resistances": {
+      "weak": ["Elec"],
+      "resist": ["Light", "Dark"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Orichalcum",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Orlov",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Orpheus",
+    "resistances": {
+      "weak": ["Elec", "Dark"],
+      "resist": ["Light"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Orpheus F",
+    "resistances": {
+      "weak": ["Elec", "Dark"],
+      "resist": ["Light"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Orpheus F Picaro",
+    "resistances": {
+      "weak": ["Elec", "Dark"],
+      "resist": ["Light"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Orpheus Picaro",
+    "resistances": {
+      "weak": ["Elec", "Dark"],
+      "resist": ["Light"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Pandora",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": [],
+      "null": ["Light"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Pithos",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Light"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Prometheus",
+    "resistances": {
+      "weak": [],
+      "resist": [],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Queen's Necklace",
+    "resistances": {
+      "weak": ["Psy"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Raoul",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": [],
+      "null": ["Dark"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Regent",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Robin Hood",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Light"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Saki Mitama",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": ["Ice"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Satan",
+    "resistances": {
+      "weak": [],
+      "resist": ["Gun"],
+      "null": [],
+      "drain": [],
+      "repel": ["Ice", "Dark"]
+    }
+  },
+  {
+    "name": "Satanael",
+    "resistances": {
+      "weak": [],
+      "resist": ["Phys", "Gun", "Fire", "Ice", "Elec", "Wind", "Psy", "Nuke"],
+      "null": ["Light"],
+      "drain": ["Dark"],
+      "repel": []
+    }
+  },
+  {
+    "name": "Seiten Taisei - P5",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": ["Fire"],
+      "null": ["Elec"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Stone of Scone",
+    "resistances": {
+      "weak": ["Fire"],
+      "resist": ["Phys", "Gun"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Tam Lin",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Phys", "Wind"],
+      "null": ["Fire"],
+      "drain": ["Light"],
+      "repel": []
+    }
+  },
+  {
+    "name": "Thanatos",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": ["Phys"],
+      "null": [],
+      "drain": [],
+      "repel": ["Dark"]
+    }
+  },
+  {
+    "name": "Thanatos Picaro",
+    "resistances": {
+      "weak": ["Light"],
+      "resist": ["Phys"],
+      "null": [],
+      "drain": [],
+      "repel": ["Dark"]
+    }
+  },
+  {
+    "name": "Tsukiyomi",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Phys", "Light"],
+      "null": [],
+      "drain": [],
+      "repel": ["Dark"]
+    }
+  },
+  {
+    "name": "Tsukiyomi Picaro",
+    "resistances": {
+      "weak": ["Nuke"],
+      "resist": ["Phys", "Light"],
+      "null": [],
+      "drain": [],
+      "repel": ["Dark"]
+    }
+  },
+  {
+    "name": "Unicorn",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": ["Psy"],
+      "null": ["Ice", "Light"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Valjean",
+    "resistances": {
+      "weak": [],
+      "resist": [],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Vanadis",
+    "resistances": {
+      "weak": ["Dark"],
+      "resist": [],
+      "null": ["Light"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Vohu Manah",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": ["Elec"],
+      "null": ["Dark"],
+      "drain": ["Light"],
+      "repel": []
+    }
+  },
+  {
+    "name": "William",
+    "resistances": {
+      "weak": ["Wind"],
+      "resist": ["Fire"],
+      "null": ["Elec"],
+      "drain": [],
+      "repel": []
+    }
+  },
+  {
+    "name": "Zorro",
+    "resistances": {
+      "weak": ["Elec"],
+      "resist": ["Wind"],
+      "null": [],
+      "drain": [],
+      "repel": []
+    }
+  }
+]

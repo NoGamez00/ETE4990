@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Model Gun",
+    "attack": 10,
+    "accuracy": 95,
+    "rounds_max": 6
+  },
+  {
+    "name": "Tkachev",
+    "attack": 50,
+    "accuracy": 92,
+    "rounds_max": 8
+  },
+  {
+    "name": "Governance",
+    "attack": 60,
+    "accuracy": 90,
+    "rounds_max": 8
+  },
+  {
+    "name": "Makaronov",
+    "attack": 96,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Riot Police",
+    "attack": 104,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Sand Hawk",
+    "attack": 120,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Eliminator",
+    "attack": 150,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Crimson Gun",
+    "attack": 180,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "From Heaven",
+    "attack": 210,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Cocytus",
+    "attack": 240,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "R.I.Pistol",
+    "attack": 280,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Jig 227",
+    "attack": 320,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Nataraja",
+    "attack": 330,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Nataraja EX",
+    "attack": 350,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Tyrant Pistol",
+    "attack": 350,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Tyrant Pistol EX",
+    "attack": 370,
+    "accuracy": 85,
+    "rounds_max": 8
+  },
+  {
+    "name": "Levinson M31",
+    "attack": 60,
+    "accuracy": 92,
+    "rounds_max": 3
+  },
+  {
+    "name": "Granelli M3",
+    "attack": 70,
+    "accuracy": 90,
+    "rounds_max": 3
+  },
+  {
+    "name": "Bianchi SBAS",
+    "attack": 106,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Fireworks",
+    "attack": 130,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Pumpkin Bomb",
+    "attack": 150,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Pumpkin Buster",
+    "attack": 160,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Hellfire",
+    "attack": 160,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Masterkey",
+    "attack": 190,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Fury",
+    "attack": 220,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Calamity Gun",
+    "attack": 250,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Kiraihou",
+    "attack": 290,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Reversion",
+    "attack": 330,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Megido Fire",
+    "attack": 350,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Megido Blaster",
+    "attack": 380,
+    "accuracy": 85,
+    "rounds_max": 3
+  },
+  {
+    "name": "Slingshot",
+    "attack": 40,
+    "accuracy": 94,
+    "rounds_max": 5
+  },
+  {
+    "name": "Slingbow",
+    "attack": 50,
+    "accuracy": 92,
+    "rounds_max": 5
+  },
+  {
+    "name": "Shrike",
+    "attack": 86,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Comet 3",
+    "attack": 110,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Northern Light",
+    "attack": 140,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Catnap",
+    "attack": 150,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Cat Buster",
+    "attack": 170,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Shooting Star",
+    "attack": 170,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Star Slayer",
+    "attack": 200,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Dreamstone",
+    "attack": 230,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Utopia",
+    "attack": 270,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Falcon",
+    "attack": 310,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Sudarshana",
+    "attack": 315,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Sudarshana EX",
+    "attack": 330,
+    "accuracy": 90,
+    "rounds_max": 5
+  },
+  {
+    "name": "Replica SMG",
+    "attack": 45,
+    "accuracy": 94,
+    "rounds_max": 12
+  },
+  {
+    "name": "Sterlidge",
+    "attack": 55,
+    "accuracy": 93,
+    "rounds_max": 12
+  },
+  {
+    "name": "Trooper",
+    "attack": 91,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Blitz MG",
+    "attack": 115,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Brain Shot",
+    "attack": 120,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Pink Buster",
+    "attack": 135,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Tarantula",
+    "attack": 145,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "No Mercy",
+    "attack": 175,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Western SMG",
+    "attack": 205,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "H. Renhappou",
+    "attack": 235,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Phantom Killer",
+    "attack": 275,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Balalaika",
+    "attack": 315,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Wild Hunt",
+    "attack": 320,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Gungnir",
+    "attack": 340,
+    "accuracy": 90,
+    "rounds_max": 12
+  },
+  {
+    "name": "Replica AR",
+    "attack": 75,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Black Assault",
+    "attack": 101,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Heavy Assault",
+    "attack": 125,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Rebel Rifle",
+    "attack": 155,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Annihilator",
+    "attack": 185,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "AR-X",
+    "attack": 215,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Hizutsu",
+    "attack": 245,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Ryuraihou",
+    "attack": 285,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "K. Gouhou",
+    "attack": 300,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "K. Gouhou EX",
+    "attack": 320,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Star-H",
+    "attack": 325,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Heaven's Gate",
+    "attack": 330,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Providence",
+    "attack": 350,
+    "accuracy": 75,
+    "rounds_max": 10
+  },
+  {
+    "name": "Replica Revolver",
+    "attack": 115,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Peacemaker",
+    "attack": 135,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Ling Xing",
+    "attack": 165,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Wildborn",
+    "attack": 195,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Mirrirmina",
+    "attack": 220,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Baptism",
+    "attack": 225,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Mirrirmina EX",
+    "attack": 235,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Orochi",
+    "attack": 255,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Twilight",
+    "attack": 295,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Unlimited",
+    "attack": 335,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Judge of Hell",
+    "attack": 340,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "Judge End",
+    "attack": 360,
+    "accuracy": 75,
+    "rounds_max": 6
+  },
+  {
+    "name": "GL Replica",
+    "attack": 176,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Scorcher",
+    "attack": 200,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Pawzooka",
+    "attack": 200,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Paw-omber",
+    "attack": 220,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Town Burner",
+    "attack": 230,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Eraser",
+    "attack": 260,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Pandemonium",
+    "attack": 300,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Milkor",
+    "attack": 340,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Yagrush",
+    "attack": 345,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Yagrush EX",
+    "attack": 360,
+    "accuracy": 70,
+    "rounds_max": 1
+  },
+  {
+    "name": "Moebius",
+    "attack": 195,
+    "accuracy": 85,
+    "rounds_max": 5
+  },
+  {
+    "name": "Sirius",
+    "attack": 215,
+    "accuracy": 85,
+    "rounds_max": 5
+  },
+  {
+    "name": "Mauser",
+    "attack": 305,
+    "accuracy": 85,
+    "rounds_max": 5
+  },
+  {
+    "name": "Red Five",
+    "attack": 325,
+    "accuracy": 85,
+    "rounds_max": 5
+  },
+  {
+    "name": "Doomsday",
+    "attack": 330,
+    "accuracy": 85,
+    "rounds_max": 5
+  },
+  {
+    "name": "Ancient Day",
+    "attack": 350,
+    "accuracy": 85,
+    "rounds_max": 5
+  },
+  {
+    "name": "Winchester",
+    "attack": 130,
+    "accuracy": 85,
+    "rounds_max": 10
+  },
+  {
+    "name": "Roosevelt",
+    "attack": 295,
+    "accuracy": 90,
+    "rounds_max": 10
+  },
+  {
+    "name": "Yellow Girl",
+    "attack": 315,
+    "accuracy": 90,
+    "rounds_max": 10
+  },
+  {
+    "name": "Sahasrara",
+    "attack": 320,
+    "accuracy": 90,
+    "rounds_max": 10
+  },
+  {
+    "name": "Sahasrara EX",
+    "attack": 345,
+    "accuracy": 90,
+    "rounds_max": 10
+  }
+]

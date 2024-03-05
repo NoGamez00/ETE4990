@@ -1,0 +1,518 @@
+[
+  {
+    "name": "Abyssal Eye",
+    "affinity": "Almighty",
+    "accuracy": 90,
+    "cost": 50,
+    "power": 270
+  },
+  {
+    "name": "Abyssal Wings",
+    "affinity": "Dark",
+    "accuracy": 90,
+    "cost": 30,
+    "power": 205
+  },
+  {
+    "name": "Assault Dive",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 13,
+    "power": 180
+  },
+  {
+    "name": "Atomic Flare",
+    "affinity": "Nuke",
+    "accuracy": 98,
+    "cost": 50,
+    "power": 265
+  },
+  {
+    "name": "Black Spot",
+    "affinity": "Phys",
+    "accuracy": 80,
+    "cost": 16,
+    "power": 200
+  },
+  {
+    "name": "Black Viper",
+    "affinity": "Almighty",
+    "accuracy": 98,
+    "cost": 48,
+    "power": 210
+  },
+  {
+    "name": "Champion\"s Cup",
+    "affinity": "Recovery",
+    "cost": 10,
+    "amount": "Moderate",
+    "buffs": ["Attack"]
+  },
+  {
+    "name": "Checkmate",
+    "affinity": "Support",
+    "cost": 90,
+    "buffs": [],
+    "debuffs": ["Attack", "Defense", "Accuracy/Evasion"]
+  },
+  {
+    "name": "Cleave",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 6,
+    "power": 75
+  },
+  {
+    "name": "Cosmic Flare",
+    "affinity": "Nuke",
+    "accuracy": 95,
+    "cost": 75,
+    "power": 185
+  },
+  {
+    "name": "Debilitate",
+    "affinity": "Support",
+    "cost": 150,
+    "buffs": [],
+    "debuffs": ["Attack", "Defense", "Accuracy/Evasion"]
+  },
+  {
+    "name": "Dia",
+    "affinity": "Recovery",
+    "cost": 8,
+    "amount": "Slight"
+  },
+  {
+    "name": "Diarahan",
+    "affinity": "Recovery",
+    "cost": 35,
+    "amount": "Full"
+  },
+  {
+    "name": "Diarama",
+    "affinity": "Recovery",
+    "cost": 15,
+    "amount": "Moderate"
+  },
+  {
+    "name": "Fatal End",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 14,
+    "power": 160
+  },
+  {
+    "name": "Frei",
+    "affinity": "Nuke",
+    "accuracy": 98,
+    "cost": 10,
+    "power": 130
+  },
+  {
+    "name": "Freidyne",
+    "affinity": "Nuke",
+    "accuracy": 98,
+    "cost": 35,
+    "power": 215
+  },
+  {
+    "name": "Freila",
+    "affinity": "Nuke",
+    "accuracy": 98,
+    "cost": 20,
+    "power": 160
+  },
+  {
+    "name": "Gale Slash",
+    "affinity": "Phys",
+    "accuracy": 85,
+    "cost": 12,
+    "power": 150
+  },
+  {
+    "name": "Garu",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 10,
+    "power": 130
+  },
+  {
+    "name": "Garudyne",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 35,
+    "power": 215
+  },
+  {
+    "name": "Garula",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 20,
+    "power": 160
+  },
+  {
+    "name": "Gigantic Fist",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 16,
+    "power": 240
+  },
+  {
+    "name": "Gigantomachia",
+    "affinity": "Phys",
+    "accuracy": 85,
+    "cost": 25,
+    "power": 350
+  },
+  {
+    "name": "God\"s Hand",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 22,
+    "power": 400
+  },
+  {
+    "name": "Harvest Dance",
+    "affinity": "Recovery",
+    "cost": 30,
+    "amount": "Slight",
+    "buffs": ["Double Defense"]
+  },
+  {
+    "name": "Heat Riser",
+    "affinity": "Support",
+    "cost": 30,
+    "buffs": ["Attack", "Defense", "Accuracy/Evasion"],
+    "debuffs": []
+  },
+  {
+    "name": "Heaven\"s Blade",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 19,
+    "power": 300
+  },
+  {
+    "name": "Herculean Strike",
+    "affinity": "Phys",
+    "accuracy": 80,
+    "cost": 16,
+    "power": 110
+  },
+  {
+    "name": "Laevateinn",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 25,
+    "power": 450
+  },
+  {
+    "name": "Lucky Punch",
+    "affinity": "Phys",
+    "accuracy": 75,
+    "cost": 3,
+    "power": 25
+  },
+  {
+    "name": "Mafrei",
+    "affinity": "Nuke",
+    "accuracy": 98,
+    "cost": 15,
+    "power": 95
+  },
+  {
+    "name": "Mafreidyne",
+    "affinity": "Nuke",
+    "accuracy": 98,
+    "cost": 50,
+    "power": 155
+  },
+  {
+    "name": "Mafreila",
+    "affinity": "Nuke",
+    "accuracy": 98,
+    "cost": 30,
+    "power": 120
+  },
+  {
+    "name": "Magaru",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 15,
+    "power": 95
+  },
+  {
+    "name": "Magarudyne",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 50,
+    "power": 155
+  },
+  {
+    "name": "Magarula",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 30,
+    "power": 120
+  },
+  {
+    "name": "Mapsi",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 15,
+    "power": 95
+  },
+  {
+    "name": "Mapsio",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 30,
+    "power": 120
+  },
+  {
+    "name": "Mapsiodyne",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 50,
+    "power": 155
+  },
+  {
+    "name": "Marakunda",
+    "affinity": "Support",
+    "cost": 30,
+    "buffs": [],
+    "debuffs": ["Defense"]
+  },
+  {
+    "name": "Masukunda",
+    "affinity": "Support",
+    "cost": 30,
+    "buffs": [],
+    "debuffs": ["Accuracy/Evasion"]
+  },
+  {
+    "name": "Matarunda",
+    "affinity": "Support",
+    "cost": 30,
+    "buffs": [],
+    "debuffs": ["Attack"]
+  },
+  {
+    "name": "Megaton Raid",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 16,
+    "power": 310
+  },
+  {
+    "name": "Mighty Swing",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 14,
+    "power": 210
+  },
+  {
+    "name": "Miracle Punch",
+    "affinity": "Phys",
+    "accuracy": 75,
+    "cost": 8,
+    "power": 100
+  },
+  {
+    "name": "Miracle Rush",
+    "affinity": "Phys",
+    "accuracy": 75,
+    "cost": 16,
+    "power": 100
+  },
+  {
+    "name": "Morning Star - Persona",
+    "aliases": ["Morning Star"],
+    "affinity": "Almighty",
+    "accuracy": 95,
+    "cost": 52,
+    "power": 210
+  },
+  {
+    "name": "One-shot Kill",
+    "affinity": "Gun",
+    "accuracy": 90,
+    "cost": 17,
+    "power": 280
+  },
+  {
+    "name": "Panta Rhei",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 50,
+    "power": 265
+  },
+  {
+    "name": "Power Slash",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 10,
+    "power": 180
+  },
+  {
+    "name": "Primal Force",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 20,
+    "power": 425
+  },
+  {
+    "name": "Psi",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 10,
+    "power": 130
+  },
+  {
+    "name": "Psio",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 20,
+    "power": 160
+  },
+  {
+    "name": "Psiodyne",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 35,
+    "power": 215
+  },
+  {
+    "name": "Psycho Blast",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 75,
+    "power": 185
+  },
+  {
+    "name": "Psycho Force",
+    "affinity": "Psy",
+    "accuracy": 98,
+    "cost": 50,
+    "power": 265
+  },
+  {
+    "name": "Rakukaja",
+    "affinity": "Support",
+    "cost": 8,
+    "buffs": ["Defense"],
+    "debuffs": []
+  },
+  {
+    "name": "Rakunda",
+    "affinity": "Support",
+    "cost": 8,
+    "buffs": [],
+    "debuffs": ["Defense"]
+  },
+  {
+    "name": "Red Capote",
+    "affinity": "Support",
+    "cost": 8,
+    "buffs": ["Double Accuracy/Evasion"],
+    "debuffs": []
+  },
+  {
+    "name": "Riot Gun",
+    "affinity": "Gun",
+    "accuracy": 80,
+    "cost": 24,
+    "power": 310
+  },
+  {
+    "name": "Single Shot",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 8,
+    "power": 145
+  },
+  {
+    "name": "Skewer",
+    "affinity": "Phys",
+    "accuracy": 85,
+    "cost": 5,
+    "power": 130
+  },
+  {
+    "name": "Snap",
+    "affinity": "Gun",
+    "accuracy": 90,
+    "cost": 9,
+    "power": 100
+  },
+  {
+    "name": "Sonic Punch",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 8,
+    "power": 140
+  },
+  {
+    "name": "Sukukaja",
+    "affinity": "Support",
+    "cost": 8,
+    "buffs": ["Accuracy/Evasion"],
+    "debuffs": []
+  },
+  {
+    "name": "Sukunda",
+    "affinity": "Support",
+    "cost": 8,
+    "buffs": [],
+    "debuffs": ["Accuracy/Evasion"]
+  },
+  {
+    "name": "Sword Dance",
+    "affinity": "Phys",
+    "accuracy": 90,
+    "cost": 25,
+    "power": 375
+  },
+  {
+    "name": "Tarukaja",
+    "affinity": "Support",
+    "cost": 8,
+    "buffs": ["Attack"],
+    "debuffs": []
+  },
+  {
+    "name": "Tarunda",
+    "affinity": "Support",
+    "cost": 8,
+    "buffs": [],
+    "debuffs": ["Attack"]
+  },
+  {
+    "name": "Vacuum Wave",
+    "affinity": "Wind",
+    "accuracy": 98,
+    "cost": 75,
+    "power": 185
+  },
+  {
+    "name": "Vajra Blast",
+    "affinity": "Phys",
+    "accuracy": 80,
+    "cost": 13,
+    "power": 100
+  },
+  {
+    "name": "Vicious Strike",
+    "affinity": "Phys",
+    "accuracy": 80,
+    "cost": 18,
+    "power": 150
+  },
+  {
+    "name": "Vorpal Blade",
+    "affinity": "Phys",
+    "accuracy": 80,
+    "cost": 23,
+    "power": 280
+  }
+]
